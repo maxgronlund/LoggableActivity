@@ -1,2 +1,2 @@
 # LoggableActivity
-This project has been moved 
+(you will find it here)[https://github.com/LoggableActivity/LoggableActivity]
